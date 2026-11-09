@@ -1,0 +1,3 @@
+pycord
+supabase
+python-dotenv
